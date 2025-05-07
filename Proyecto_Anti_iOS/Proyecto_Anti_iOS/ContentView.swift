@@ -16,6 +16,7 @@ struct ContentView: View {
                 .padding(.bottom, 50)
 
             Text("Holi mundo anti iOS!")
+            Text("Para ver que todo funciona")
         }
         .padding()
     }
